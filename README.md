@@ -36,8 +36,11 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 pip install -r requirements.txt
 ```
 
+## Usage
 
+- After installing all prerequisites, the user can acquire raw data using the custom software provided. However, for ease of use, pre-trained models and raw EMG and EEG datasets are also provided.
 
+- The dataset should be placed in a folder named `data`, and the scripts from `src` as well as the required notebooks from `Notebooks` should be placed in a folder named `code`. The `data` and `code` should be in the same directory. 
  
     
 <h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
