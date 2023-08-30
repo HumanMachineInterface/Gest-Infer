@@ -1,6 +1,19 @@
-# Gest-Infer
-This repository includes components used in the article titled "Event-Driven Edge Deep Learning Decoder for Real-time Gesture Classification and Neuro-inspired Rehabilitation Device Control"
+# Gesture classification using biosignals. 
+This repository includes components used in the study titled "Event-Driven Edge Deep Learning Decoder for Real-time Gesture Classification and Neuro-inspired Rehabilitation Device Control". Link to the article will be provided soon [`Dere et al. (2023)`]()
 
+## Table of Contents
 
+- [Backgorund](#background)
+- [Project Directory](#project-directory)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
+## Background
+
+Gesture classification plays a crucial role in the development of neuro-inspired rehabilitation devices. The use of electromyography (EMG) and electroencephalography (EEG) are well-known techniques in this field. However, combining both EMG and EEG signals could provide a more reliable augmented signal, particularly during EMG electrode-shift. In addition to signal fusion, there are other challenges to consider. Cloud-based deep neural network (DNN) inference often introduces latency and raises concerns about data privacy. To address these issues, a sustainable approach is to deploy the DNN model onto embedded devices. In this repository, we aim to demonstrate how to deploy a DNN model onto a field-programmable gate array (FPGA) for real-time gesture classification. 
+
+## Project Directory
+- [data](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification)
+  - This contain raw EMG and EEG data acquired from 33 subjects [`Dere et al. (2023)`]().
 <h1> The paper has been submitted for review. Code, and links to dataset would be provided soon. <h1> 
