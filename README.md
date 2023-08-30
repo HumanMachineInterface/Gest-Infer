@@ -22,7 +22,8 @@ Gesture classification plays a crucial role in the development of neuro-inspired
   - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results.
 - [src]()
   - Contains the scripts for preprocessing including `data agumentation` and `filtering.`
- 
+- [Pre-trained models]()
+  - This repository includes models that can be fine-tunned for gesture classification or other applications. 
 ## Installation
 
 - It is recommended to have the [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit installed in order to facilitate training, quantization, and compilation of the deep learning model for deployment.
