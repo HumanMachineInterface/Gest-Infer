@@ -24,11 +24,12 @@ Gesture classification plays a crucial role in the development of neuro-inspired
   - Contains the scripts for preprocessing including `data agumentation` and `filtering.`
  
 ## Installation
+```
+It is recommended to have the [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit installed in order to facilitate training, quantization, and compilation of the deep learning model for deployment.
 
-It is reommended that a [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit is installed for training, quantization and compiling the deep learning model. 
-
-```bash
-pip install emgdecompy
+```
+```
+Additionaly, it is recommended to install PyCharm for running the data acquistion software for ease.
 ```
  
     
