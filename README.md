@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 - After installing all prerequisites, the user can acquire raw data using the custom software provided. However, for ease of use, pre-trained models and raw EMG and EEG datasets are also provided.
 
-- The dataset should be placed in a folder named `data`(https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification), and the scripts from `src` as well as the required notebooks from `Notebooks` should be placed in a folder named `code`. The `data` and `code` should be in the same directory.
+- The dataset should be placed in a folder named `data`, and the scripts from `src` as well as the required notebooks from `Notebooks` should be placed in a folder named `code`. The `data` and `code` should be in the same directory.
 
 ## Credits
 
