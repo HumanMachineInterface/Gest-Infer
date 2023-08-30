@@ -25,11 +25,14 @@ Gesture classification plays a crucial role in the development of neuro-inspired
  
 ## Installation
 
-It is recommended to have the [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit installed in order to facilitate training, quantization, and compilation of the deep learning model for deployment.
+- It is recommended to have the [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit installed in order to facilitate training, quantization, and compilation of the deep learning model for deployment.
 
-```
-Additionaly, it is recommended to install PyCharm for running the data acquistion software for ease.
-```
+- It is recommended to install all dependencies in a virtual environment prior to data acquisition.
+
+- Additionally, it is recommended to install PyCharm to facilitate the running of the data acquisition software for ease of use. Kindly ensure that the data acquisition code is executed within the virtual environment. 
+
+
+
  
     
 <h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
