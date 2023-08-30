@@ -14,8 +14,10 @@ This repository includes components used in the study titled "Event-Driven Edge 
 Gesture classification plays a crucial role in the development of neuro-inspired rehabilitation devices. The use of electromyography (EMG) and electroencephalography (EEG) are well-known techniques in this field. However, combining both EMG and EEG signals could provide a more reliable augmented signal, particularly during EMG electrode-shift. In addition to signal fusion, there are other challenges to consider. Cloud-based deep neural network (DNN) inference often introduces latency and raises concerns about data privacy. To address these issues, a sustainable approach is to deploy the DNN model onto embedded devices. In this repository, we aim to demonstrate how to deploy a DNN model onto a field-programmable gate array (FPGA) for real-time gesture classification. 
 
 ## Project Directory
-- [data](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification)
+- [Dataset](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification)
   - This contain raw EMG and EEG data acquired from 33 subjects [`Dere et al. (2023)`]().
 - [Data acquistion software]()
   - This repository contains custom software that has been developed to collect EMG data from the Myo armband and EEG data from the OpenBCI Ultracortex "Mark IV".
+- [Notebooks]()
+  - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results. 
 <h1> The paper has been submitted for review. Code, and links to dataset would be provided soon. <h1> 
