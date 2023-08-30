@@ -20,7 +20,7 @@ Gesture classification plays a crucial role in the development of neuro-inspired
   - This repository contains custom software that has been developed to collect EMG data from the Myo armband and EEG data from the OpenBCI Ultracortex "Mark IV".
 - [Notebooks](https://github.com/HumanMachineInterface/Gest-Infer/tree/main/Notebooks)
   - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results.
-- [src]()
+- [src](https://github.com/HumanMachineInterface/Gest-Infer/tree/main/src)
   - Contains the scripts for preprocessing including `data agumentation` and `filtering.`
 - [Pre-trained models]()
   - This repository includes models that can be fine-tunned for gesture classification or other applications. 
