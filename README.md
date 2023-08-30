@@ -29,7 +29,11 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 
 - It is recommended to install all dependencies in a virtual environment prior to data acquisition.
 
-- Additionally, it is recommended to install PyCharm to facilitate the running of the data acquisition software for ease of use. Kindly ensure that the data acquisition code is executed within the virtual environment. 
+- Additionally, it is recommended to install PyCharm to facilitate the running of the data acquisition software for ease of use. Kindly ensure that the data acquisition code is executed within the virtual environment.
+
+```bash
+pip install -r requirements.txt
+```
 
 
 
