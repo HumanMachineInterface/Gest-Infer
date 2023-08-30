@@ -1,0 +1,6 @@
+pyomyo
+brainflow
+pandas
+matplotlib.pyplot
+numpy
+scipy 
