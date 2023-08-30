@@ -23,5 +23,13 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 - [src]()
   - Contains the scripts for preprocessing including `data agumentation` and `filtering.`
  
+## Installation
+
+It is reommended that a [Vitis-AI](https://xilinx.github.io/Vitis-AI/3.5/html/index.html) toolkit is installed for training, quantization and compiling the deep learning model. 
+
+```bash
+pip install emgdecompy
+```
+ 
     
 <h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
