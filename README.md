@@ -16,7 +16,7 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 ## Project Directory
 - [Dataset](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification)
   - This contain raw EMG and EEG data acquired from 33 subjects [`Dere et al. (2023)`]().
-- [Data acquistion software]()
+- [Data acquistion software](https://github.com/HumanMachineInterface/Gest-Infer/tree/main/data-acquistion-software)
   - This repository contains custom software that has been developed to collect EMG data from the Myo armband and EEG data from the OpenBCI Ultracortex "Mark IV".
 - [Notebooks]()
   - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results.
