@@ -21,10 +21,7 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 - [Notebooks]()
   - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results.
 - [src]()
-  - Contains the scripts for preprocessing including:
-    -'data agumentation.'
-    -'filtering.'
-    -''
+  - Contains the scripts for preprocessing including 'data agumentation' and 'filtering.'
  
     
 <h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
