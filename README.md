@@ -22,7 +22,7 @@ Gesture classification plays a crucial role in the development of neuro-inspired
   - This repository includes a Jupyter notebook that can be used to obtain offline gesture classification results.
 - [src](https://github.com/HumanMachineInterface/Gest-Infer/tree/main/src)
   - Contains the scripts for preprocessing including `data agumentation` and `filtering.`
-- [Pre-trained models]()
+- [Pretrained models](https://github.com/HumanMachineInterface/Gest-Infer/tree/main/Pretrained_Models)
   - This repository includes models that can be fine-tunned for gesture classification or other applications. 
 ## Installation
 
