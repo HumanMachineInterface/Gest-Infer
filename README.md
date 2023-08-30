@@ -16,4 +16,6 @@ Gesture classification plays a crucial role in the development of neuro-inspired
 ## Project Directory
 - [data](https://ieee-dataport.org/documents/emg-eeg-dataset-upper-limb-gesture-classification)
   - This contain raw EMG and EEG data acquired from 33 subjects [`Dere et al. (2023)`]().
+- [Data acquistion software]()
+  - This repository contains custom software that has been developed to collect EMG data from the Myo armband and EEG data from the OpenBCI Ultracortex "Mark IV".
 <h1> The paper has been submitted for review. Code, and links to dataset would be provided soon. <h1> 
