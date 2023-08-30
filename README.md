@@ -40,7 +40,11 @@ pip install -r requirements.txt
 
 - After installing all prerequisites, the user can acquire raw data using the custom software provided. However, for ease of use, pre-trained models and raw EMG and EEG datasets are also provided.
 
-- The dataset should be placed in a folder named `data`, and the scripts from `src` as well as the required notebooks from `Notebooks` should be placed in a folder named `code`. The `data` and `code` should be in the same directory. 
+- The dataset should be placed in a folder named `data`, and the scripts from `src` as well as the required notebooks from `Notebooks` should be placed in a folder named `code`. The `data` and `code` should be in the same directory.
+
+## Credits
+
+We like to thank the team at [OpenBCI](https://openbci.com/), [BrainFlow](https://brainflow.org/), [AMD Xilinx](https://www.amd.com/en.html) and creators of [Pyomyo](https://github.com/PerlinWarp/pyomyo) 
  
     
 <h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
