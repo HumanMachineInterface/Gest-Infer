@@ -1,4 +1,6 @@
 # Gesture classification using biosignals. 
+
+[![githubio](https://img.shields.io/badge/EMG-EEG%20Gesture%20Classification)](https://github.com/HumanMachineInterface/Gest-Infer/) 
 This repository includes components used in the study titled "Event-Driven Edge Deep Learning Decoder for Real-time Gesture Classification and Neuro-inspired Rehabilitation Device Control". Link to the article will be provided soon [`Dere et al. (2023)`]()
 
 ## Table of Contents
