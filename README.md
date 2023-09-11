@@ -49,4 +49,4 @@ pip install -r requirements.txt
 We like to thank the team at [OpenBCI](https://openbci.com/), [BrainFlow](https://brainflow.org/), [AMD Xilinx](https://www.amd.com/en.html) and creators of [Pyomyo](https://github.com/PerlinWarp/pyomyo) 
  
     
-<h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). . <h3> 
+<h3> The paper has been submitted for possible publication with IEEE Transcations on Instrumentation and Measurement (TIM). <h3> 
